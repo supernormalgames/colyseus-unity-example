@@ -2,9 +2,9 @@
 
 This simple two player game is based on the classic game "Go". This game was the winning entry in the Colyseus+Unity Game Jam in 2021. It has also been published to the App Store and Google Play Store. Links to play (free) below.
 
-[Play on Itch](https://supernormalgames.itch.io/nanogo)
-[Apple App Store](https://apps.apple.com/us/app/nanogo/id1556909550)
-[Google Play Store](https://play.google.com/store/apps/details?id=com.supernormal.nanogo)
+* [Play on Itch](https://supernormalgames.itch.io/nanogo)
+* [Apple App Store](https://apps.apple.com/us/app/nanogo/id1556909550)
+* [Google Play Store](https://play.google.com/store/apps/details?id=com.supernormal.nanogo)
 
 ## Setup
 
